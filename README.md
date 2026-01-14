@@ -30,18 +30,18 @@ Paste this into a repo named `cabraham2` as README.md
 
 ⸻
 
-👋 About
+## 👋 About
+I’m **Clément Abraham** — building at the intersection of **market finance** and **software engineering**.
 
-I’m Clément Abraham — building at the intersection of market finance and software engineering.
-	•	🎓 Market Finance: Master’s track spanning UTS (Sydney, Australia) and IAE Caen (France)
-	•	🎯 Goal: become a Quantitative Trader (pricing, volatility, risk, systematic strategies)
-	•	🧱 Why 42? To master strong fundamentals: C/C++, systems, performance, clean engineering — the stuff that actually ships
+- 🎓 **Market Finance**: Master’s track spanning **UTS (Sydney, Australia)** and **IAE Caen (France)**
+- 🎯 Goal: become a **Quantitative Trader** (pricing, volatility, risk, systematic strategies)
+- 🧱 Why 42? To master strong fundamentals: **C/C++**, systems, performance, clean engineering — the stuff that actually ships
 
-I like projects that are portfolio-ready: reproducible, testable, documented, and useful.
+I like projects that are **portfolio-ready**: reproducible, testable, documented, and useful.
 
 ⸻
 
-⭐ Featured projects
+## ⭐ Featured projects
 
 🧮 Options Pricer — Long Straddle (Black-Scholes + Web UI)
 
@@ -60,7 +60,7 @@ A full Python project (Flask + math) to analyze a long straddle: payoff, Greeks,
 
 ⸻
 
-🏫 G2C Platform — Next.js + Prisma (Academic)
+ 🏫 G2C Platform — Next.js + Prisma (Academic)
 
 A web platform for coursework: roles, content, grading, and PDF generation.
 
@@ -77,7 +77,7 @@ A web platform for coursework: roles, content, grading, and PDF generation.
 
 ⸻
 
-🧩 Open Source — Monica (vCard import)
+ 🧩 Open Source — Monica (vCard import)
 
 Work around Monica (Personal CRM): improving the vCard import experience.
 
@@ -92,7 +92,7 @@ Work around Monica (Personal CRM): improving the vCard import experience.
 
 ⸻
 
-🛠️ Bedside Table — Fusion 360 (CAD + STL)
+## 🛠️ Bedside Table — Fusion 360 (CAD + STL)
 
 Minimal bedside table design: Fusion 360 files + STL + render.
 
@@ -106,18 +106,18 @@ Minimal bedside table design: Fusion 360 files + STL + render.
 
 ⸻
 
-🧱 42 curriculum (C / systems / C++)
-
+## 🧱 42 curriculum (C / systems / C++)
 Core fundamentals: memory, low-level APIs, tooling, algorithmic thinking.
-	•	https://github.com/cabraham2/42-Piscine
-	•	https://github.com/cabraham2/42-LibFt
-	•	https://github.com/cabraham2/42-Get_next_line
-	•	https://github.com/cabraham2/42-printf
-	•	https://github.com/cabraham2/minishell
+
+- [42-Piscine](https://github.com/cabraham2/42-Piscine)
+- [42-LibFt](https://github.com/cabraham2/42-LibFt)
+- [42-Get_next_line](https://github.com/cabraham2/42-Get_next_line)
+- [42-printf](https://github.com/cabraham2/42-printf)
+- [minishell](https://github.com/cabraham2/minishell)
 
 ⸻
 
-🧰 Toolbox
+## 🧰 Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,js,react,nextjs,nodejs,linux,docker,postgres,sqlite,git,githubactions&perline=7" />
@@ -127,14 +127,14 @@ Core fundamentals: memory, low-level APIs, tooling, algorithmic thinking.
 
 ⸻
 
-📌 What I’m focused on
+## 📌 What I’m focused on
 	•	Building quant tooling: pricing engines, backtesting, risk dashboards
 	•	Engineering: performance, clean architecture, reproducibility, CI
 	•	Open source contributions that help real users
 
 ⸻
 
-📊 Stats
+## 📊 Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=cabraham2&show_icons=true&hide_title=true&include_all_commits=true" />
@@ -150,6 +150,6 @@ Core fundamentals: memory, low-level APIs, tooling, algorithmic thinking.
 
 ⸻
 
-📫 Contact
+## 📫 Contact
 	•	LinkedIn: https://www.linkedin.com/in/cl%C3%A9ment-abraham-530566164
 	•	Email: cabraham@student.42lehavre.fr
