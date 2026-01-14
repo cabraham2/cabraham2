@@ -1,37 +1,155 @@
-<h1 align="center">Hi 👋, I'm Clément</h1>
-<h3 align="center">A passionate learner from France</h3>
+<!--
+README.md — GitHub profile for @cabraham2
+Paste this into a repo named `cabraham2` as README.md
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cabraham2&label=Profile%20views&color=0e75b6&style=flat" alt="cabraham2" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cabraham2" alt="cabraham2" /></a> </p>
-
-- 🔭 I’m currently working on **42 and finance study**
-
-- 🌱 I’m currently learning **courses, linux, network, c, python, passing my CFA**
-
-- 👯 I’m looking to collaborate on **Finance project**
-
-- 🤝 I’m looking for help with **42 exams**
-
-- 👨‍💻 All of my projects are available at [https://github.com/cabraham2](https://github.com/cabraham2)
-
-- 📫 How to reach me **cabraham@student.42lehavre.fr**
-
-- 📄 Know about my experiences [linkedin.com/in/clément-abraham-530566164](linkedin.com/in/clément-abraham-530566164)
-
-- ⚡ Fun fact **I try to travel in all country 22/197**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/clément-abraham-530566164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clément-abraham-530566164" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Cl%C3%A9ment%20Abraham&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Quant%20Trading%20Aspirant%20%7C%20Market%20Finance%20%C3%97%20Software%20Engineering&descSize=16&descAlignY=72&color=0:0b1020,100:0f172a" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cabraham2&show_icons=true&locale=en&layout=compact" alt="cabraham2" /></p>
+<p align="center">
+  <a href="https://github.com/cabraham2">
+    <img src="https://img.shields.io/badge/GitHub-cabraham2-0f172a?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/cl%C3%A9ment-abraham-530566164">
+    <img src="https://img.shields.io/badge/LinkedIn-Cl%C3%A9ment%20Abraham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:cabraham@student.42lehavre.fr">
+    <img src="https://img.shields.io/badge/Email-cabraham%40student.42lehavre.fr-334155?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cabraham2&show_icons=true&locale=en" alt="cabraham2" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cabraham2&" alt="cabraham2" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cabraham2&style=flat" />
+</p>
 
+
+
+⸻
+
+👋 About
+
+I’m Clément Abraham — building at the intersection of market finance and software engineering.
+	•	🎓 Market Finance: Master’s track spanning UTS (Sydney, Australia) and IAE Caen (France)
+	•	🎯 Goal: become a Quantitative Trader (pricing, volatility, risk, systematic strategies)
+	•	🧱 Why 42? To master strong fundamentals: C/C++, systems, performance, clean engineering — the stuff that actually ships
+
+I like projects that are portfolio-ready: reproducible, testable, documented, and useful.
+
+⸻
+
+⭐ Featured projects
+
+🧮 Options Pricer — Long Straddle (Black-Scholes + Web UI)
+
+A full Python project (Flask + math) to analyze a long straddle: payoff, Greeks, scenarios, and strategy intuition.
+
+➡️ Repo: https://github.com/cabraham2/long-stradle
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-111827?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Options%20Pricing-111827?style=flat" />
+  <img src="https://img.shields.io/badge/Black--Scholes-111827?style=flat" />
+</p>
+
+
+
+⸻
+
+🏫 G2C Platform — Next.js + Prisma (Academic)
+
+A web platform for coursework: roles, content, grading, and PDF generation.
+
+➡️ Repo: https://github.com/cabraham2/g2c-site-internet
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-111827?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-111827?style=flat&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PDF%20Generation-111827?style=flat" />
+</p>
+
+
+
+⸻
+
+🧩 Open Source — Monica (vCard import)
+
+Work around Monica (Personal CRM): improving the vCard import experience.
+
+➡️ Fork: https://github.com/cabraham2/monica
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-111827?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-111827?style=flat&logo=opensourceinitiative&logoColor=white" />
+</p>
+
+
+
+⸻
+
+🛠️ Bedside Table — Fusion 360 (CAD + STL)
+
+Minimal bedside table design: Fusion 360 files + STL + render.
+
+➡️ Repo: https://github.com/cabraham2/Bedside-Table
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cabraham2/Bedside-Table/main/table_de_lit.png" width="780" />
+</p>
+
+
+
+⸻
+
+🧱 42 curriculum (C / systems / C++)
+
+Core fundamentals: memory, low-level APIs, tooling, algorithmic thinking.
+	•	https://github.com/cabraham2/42-Piscine
+	•	https://github.com/cabraham2/42-LibFt
+	•	https://github.com/cabraham2/42-Get_next_line
+	•	https://github.com/cabraham2/42-printf
+	•	https://github.com/cabraham2/minishell
+
+⸻
+
+🧰 Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,js,react,nextjs,nodejs,linux,docker,postgres,sqlite,git,githubactions&perline=7" />
+</p>
+
+
+
+⸻
+
+📌 What I’m focused on
+	•	Building quant tooling: pricing engines, backtesting, risk dashboards
+	•	Engineering: performance, clean architecture, reproducibility, CI
+	•	Open source contributions that help real users
+
+⸻
+
+📊 Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cabraham2&show_icons=true&hide_title=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=cabraham2" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cabraham2" />
+</p>
+
+
+
+⸻
+
+📫 Contact
+	•	LinkedIn: https://www.linkedin.com/in/cl%C3%A9ment-abraham-530566164
+	•	Email: cabraham@student.42lehavre.fr
